@@ -7,3 +7,23 @@ ___
 ___
 ### __Briefly about myself__
 My name is Gor, 25 y.o.
+___
+### Skills
+* HTML5
+* CSS3 (SCSS, SASS)
+* JavaScript Basics
+* VS Code 
+* Photoshop, Figma
+___
+
+### My Code Example:
+```
+
+```
+___
+### Courses:
+*
+*
+*
+___
+### Languages:

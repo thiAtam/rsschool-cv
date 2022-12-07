@@ -27,3 +27,6 @@ ___
 *
 ___
 ### Languages:
+Russian: native speaker
+Armenian: native speaker
+English: Intermediate - Upper-Intermediate

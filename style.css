@@ -1,0 +1,9 @@
+header {
+    height: 60px;
+    /*color: blue;*/
+    background-color: blue;
+}
+
+.container {
+    width: 100%;
+}
